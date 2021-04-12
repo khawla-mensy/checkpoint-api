@@ -1,0 +1,8 @@
+.disingncard {
+    display: flex;
+    flex-wrap: wrap;
+    margin: 70px 70px;
+    justify-content: space-between;
+    align-content: space-around;
+    height: 60vh;
+}
